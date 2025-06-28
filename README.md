@@ -17,7 +17,14 @@ Before you can start - choose your flavor
 ## `subdomain.domain.com`
 
 - you should use `http-challange`-Folder
+- change the `subdomain.domain.com`-Placeholder
+- change the `<EMAIL>`-Placeholder
+- be aware that the
 
 ## `anything.subdomain.domain.com`
 
-you should use `dns-challange`-Folder
+- you should use `dns-challange`-Folder
+- change the `subdomain.domain.com`-Placeholder
+- change the `<EMAIL>`-Placeholder
+- create a token to use with Digitalocean Domain Service
+- add the token to `<your-digitalocean-api-token>`-Placeholder in the `.env`-File
