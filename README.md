@@ -1,4 +1,4 @@
-# how to use traefik as a Let´s-Encrypt Proxy with `docker-compose`
+# how to use traefik as a Let´s-Encrypt Proxy
 
 We setup a docker-compose that mimic the following behaivor
 
