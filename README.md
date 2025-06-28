@@ -16,4 +16,8 @@ Before you can start - choose your flavor
 
 ## `subdomain.domain.com`
 
-### `anything.subdomain.domain.com`
+- you should use `http-challange`-Folder
+
+## `anything.subdomain.domain.com`
+
+you should use `dns-challange`-Folder
