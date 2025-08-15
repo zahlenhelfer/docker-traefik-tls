@@ -12,7 +12,7 @@ Simple `docker-compose.yml` template to run Traefik and a whoami service with Do
 - Traefik dashboard is enabled at `https://traefik.example.com/dashboard/` with user/pass test/test
 - Example whoami router will automatically redirect from "www.whoami.example.com" to "whoami.example.com"
 or:
-- 'traefik.http.routers.myservice.rule=HostRegexp(`([a-zA-Z0-9\-]+\.)?mydomain\.com`)'
+- `traefik.http.routers.myservice.rule=HostRegexp(`([a-zA-Z0-9\-]+\.)?mydomain\.com`)`
 
 ## Deployment
 
